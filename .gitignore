@@ -1,1 +1,6 @@
 .env
+_output_data/
+_qgis/
+*.pdf
+_edited_maps/
+_edited_maps.zip
